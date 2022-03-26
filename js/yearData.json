@@ -1,0 +1,494 @@
+[
+    {
+      "year": 1900,
+      "event": "Microsoft Excel behandelt dieses Jahr fälschlicherweise als Schaltjahr um mit Lotus 1-2-3 kompatibel zu sein."
+    },
+    {
+      "year": 1901,
+      "event": "Erste transatlantische Funkübertragung durch Guglielmo Marconi."
+    },
+    {
+      "year": 1902,
+      "event": "Der Franzose Charles Richet entdeckte und erklärte die Wirkung der Anaphylaxie"
+    },
+    {
+      "year": 1903,
+      "event": "Erster erfolgreicher gesteuerter Motorflug mit einem Schwerer-als-Luft-Flugzeug."
+    },
+    {
+      "year": 1904,
+      "event": "Henri Poincaré postuliert, dass in Inertialsystemen die Naturgesetze gegenüber Lorentz-Transformationen invariant sein müssen."
+    },
+    {
+      "year": 1905,
+      "event": "Walther Nernst formuliert den 3. Hauptsatz der Thermodynamik."
+    },
+    {
+      "year": 1906,
+      "event": "Karl Schwarzschild veröffentlicht ein Stabilitätskriterium, mit dem sich das Gleichgewicht der Sonne und ihr Aufbau in Strahlungs- und Konvektionszone erklären lassen; er beobachtet die Randverdunkelung der Sonne."
+    },
+    {
+      "year": 1907,
+      "event": "Entwicklung von Tuberkulin-Tests durch Clemens von Pirquet, zeitgleich durch Ernst Moro und zeitgleich durch Alfred Wolff-Eisner zur Tuberkulose-Diagnostik."
+    },
+    {
+      "year": 1908,
+      "event": "George Ellery Hale entdeckt die Aufspaltung der Spektrallinien in Sonnenflecken (Zeeman-Effekt), der Nachweis eines Zusammenhangs von magnetischen Felder und Sonnenflecken."
+    },
+    {
+      "year": 1909,
+      "event": "Die Königsseebahn wird zwischen Berchtesgaden Königsseer Bahnhof und Königssee (Oberbay) mit 1000 V Gleichstrom elektrifiziert."
+    },
+    {
+      "year": 1910,
+      "event": "Robert Andrews Millikan bestimmt die Elementarladung mittels Öltröpfchenversuchs präzise."
+    },
+    {
+      "year": 1911,
+      "event": "Klärung der Vitamin-B1-Avitaminose (Beriberi) durch Casimir Funk, der den Begriff „Vitamin“, abgeleitet von „Vital-Amin“, einführte."
+    },
+    {
+      "year": 1912,
+      "event": "An der Königlichen Akademie der Graphischen Künste in Leipzig erhält Frank Eugene das erste in Europa eingerichtete Lehramt für künstlerische Fotografie."
+    },
+    {
+      "year": 1913,
+      "event": "Henry Norris Russell entwickelt das berühmte Hertzsprung-Russell-Diagramm, das den Zusammenhang zwischen der Größe eines Sterns und seiner Helligkeit darstellt."
+    },
+    {
+      "year": 1914,
+      "event": "Ernest Rutherford entdeckt das Proton."
+    },
+    {
+      "year": 1915,
+      "event": "Albert Einstein veröffentlicht die allgemeine Relativitätstheorie."
+    },
+    {
+      "year": 1916,
+      "event": "Karl Schwarzschild berechnet die erste Lösung für Einsteins Feldgleichung, die nach ihm benannte Schwarzschild-Metrik."
+    },
+    {
+      "year": 1917,
+      "event": "Edmund Schulthess wird neuer Bundespräsident der Schweiz."
+    },
+    {
+      "year": 1918,
+      "event": "Niels Henrick David Bohr postuliert das Bohrsche Korrespondenzprinzip."
+    },
+    {
+      "year": 1919,
+      "event": "Arthur Stanley Eddington beobachtet während einer totalen Sonnenfinsternis erstmals den Gravitationslinseneffekt und erbringt somit den ersten Beweis für die Richtigkeit von Einsteins Allgemeiner Relativitätstheorie."
+    },
+    {
+      "year": 1920,
+      "event": " Arthur Stanley Eddington schlägt als Erklärung für die Energiefreisetzung der Sonne subatomare Prozesse, Annihilation oder Paarerzeugung, vor, was eine Sonnenlebensdauer von mehreren Milliarden Jahren zulassen würde."
+    },
+    {
+      "year": 1921,
+      "event": "Fidel Pagés beschrieb die Periduralanästhesie (auch Epiduralanästhesie), die er Anestesia metamérica nannte."
+    },
+    {
+      "year": 1922,
+      "event": "Otto Stern und Walther Gerlach gelingt der experimentelle Nachweis des Elektronenspins durch den nach ihnen benannten Stern-Gerlach-Versuch."
+    },
+    {
+      "year": 1923,
+      "event": " Es gelang Edwin Hubble — wenn auch mit einem Fehler behaftet — mithilfe veränderlicher Sterne der Cepheiden-Klasse, die Entfernung der Andromedagalaxie auf 900000 Lichtjahre (eigentlich 2,5 Mio. Lichtjahre) zu berechnen, und sie damit als extragalaktisches Objekt zu identifizieren."
+    },
+    {
+      "year": 1924,
+      "event": "Die weltweit erste „Blutwäsche“ über semipermeable Membranen beim Menschen wurde 1924 von Georg Haas in Gießen durchgeführt."
+    },
+    {
+      "year": 1925,
+      "event": "Wolfgang Pauli formuliert das für den Aufbau der Atomhüllen fundamentale Pauli-Prinzip."
+    },
+    {
+      "year": 1926,
+      "event": "Lise Meitner weist experimentell nach, dass die Gamma-Strahlung erst nach der Kernumwandlung entsteht."
+    },
+    {
+      "year": 1927,
+      "event": "Dem ungarischen Wissenschaftler Albert von Szent-Györgyi Nagyrápolt gelingt es, Vitamin C zu isolieren."
+    },
+    {
+      "year": 1928,
+      "event": "Vorstellung der nach dem Japaner Kyūsaku Ogino und dem Österreicher Hermann Knaus benannten Knaus-Ogino-Verhütungsmethode zur Empfängnisverhütung."
+    },
+    {
+      "year": 1929,
+      "event": "Edwin Hubble findet die Beweise für ein expandierendes Universum bei der Messung der Rotverschiebung verschiedener Objekte."
+    },
+    {
+      "year": 1930,
+      "event": "Pluto wird durch das Lowell-Observatorium in Flagstaff (Arizona) durch Vergleiche einiger Himmelsaufnahmen am Blinkkomparator nach rund 25-jähriger Suche entdeckt."
+    },
+    {
+      "year": 1931,
+      "event": "Erstes Elektronenmikroskop (Ernst Ruska)"
+    },
+    {
+      "year": 1932,
+      "event": "Hans Adolf Krebs entdeckt gemeinsam mit Kurt Henseleit den Harnstoffzyklus (Krebs-Henseleit-Zyklus)."
+    },
+    {
+      "year": 1933,
+      "event": "Bernard Ferdinand Lyot beobachtet die Korona der Sonne erstmals außerhalb einer Finsternis."
+    },
+    {
+      "year": 1934,
+      "event": "Marcus Laurence Elwin Oliphant stellt künstlich das Wasserstoffisotop Tritium her."
+    },
+    {
+      "year": 1935,
+      "event": "Max Waldmeier beschreibt einen Zusammenhang zwischen Sonnenfleckenmaximum und Länge des Anstiegs und Abstiegs im Sonnenfleckenzyklus, den Waldmeier-Effekt."
+    },
+    {
+      "year": 1936,
+      "event": "Erste Farbdiafilme mit chromogener Entwicklung in Deutschland (Agfacolor-Neu) und in den USA (Kodachrome)."
+    },
+    {
+      "year": 1937,
+      "event": "Emilio Gino Segrè stellt erstmals das künstliche Element Technetium mit Z=43 her."
+    },
+    {
+      "year": 1938,
+      "event": "Erste induzierte Kernspaltung des Urans (Otto Hahn und Fritz Straßmann)."
+    },
+    {
+      "year": 1939,
+      "event": "Einführung der Rachitisprophylaxe mit Vitamin-D in die Säuglingspädiatrie durch Georg Bessau auf der Basis der Vitamin-D-Forschungen durch Adolf Windaus."
+    },
+    {
+      "year": 1940,
+      "event": "Patentierung der Herstellung von Titan vom Luxemburger Metallurgen William Justin Kroll in den USA."
+    },
+    {
+      "year": 1941,
+      "event": "Behandlung des ersten Patienten mit Penicillin nach chemischer Reindarstellung des Penicillins durch die Oxforder Gruppe um Ernst B. Chain und Howard W. Florey."
+    },
+    {
+      "year": 1942,
+      "event": "Die Königsseebahn wird zwischen Berchtesgaden Königsseer Bahnhof und Königssee (Oberbay) auf 15 kV Wechselstrom mit 16 2/3 Hz umgestellt."
+    },
+    {
+      "year": 1943,
+      "event": "Der erste Spiegelreflex-Prismensucher für den Einblick in Augenhöhe mit seitenrichtigem, aufrechtem Bild sowie mit Rückschwingspiegel wird in Ungarn von Jenő Dulovits patentiert."
+    },
+    {
+      "year": 1944,
+      "event": "Entdeckung des Streptomycins, des ersten Antibiotikums gegen Tuberkulose, durch Selman Abraham Waksman und Albert Schatz."
+    },
+    {
+      "year": 1945,
+      "event": "Entdeckung der Synchrotronstrahlung."
+    },
+    {
+      "year": 1946,
+      "event": "Fertigstellung des ersten arbeitsfähigen Röhrenrechners ENIAC von John Presper Eckert & John William Mauchly an der Moore School der University of Pennsylvania."
+    },
+    {
+      "year": 1947,
+      "event": "Dennis Gabor erfindet die Holografie."
+    },
+    {
+      "year": 1948,
+      "event": "Aufbauend auf Ideen von Isidor Isaac Rabi wird m National Bureau of Standards (NBS) in den Vereinigten Staaten von Harold Lyons die erste Atomuhr realisiert."
+    },
+    {
+      "year": 1949,
+      "event": "Herbert Friedman entdeckt die Röntgenstrahlung der Sonne."
+    },
+    {
+      "year": 1950,
+      "event": "Pierre Angénieux stellt den Retrofokus vor – welcher einen großen Entwicklungsschub in der optischen Leistung von Weitwinkelobjektiven ermöglicht."
+    },
+    {
+      "year": 1951,
+      "event": "Entwurf der ersten nichtimplantierbaren Herzschrittmacher von dem Kanadier Wilfred Gordon Bigelow."
+    },
+    {
+      "year": 1952,
+      "event": "Entdeckung des epidermalen Wachstumsfaktors und des Nervenwachstumsfaktors durch Rita Levi-Montalcini, Letzteren zusammen mit Stanley Cohen."
+    },
+    {
+      "year": 1953,
+      "event": "Beschreibung der dreidimensionalen Doppelhelixstruktur der Desoxyribonukleinsäure (DNS) durch James Watson und Francis Crick."
+    },
+    {
+      "year": 1954,
+      "event": "Die erste längerfristig erfolgreiche Nierentransplantation durch Joseph Edward Murray."
+    },
+    {
+      "year": 1955,
+      "event": "Dr. Emmet L. Brown erfindet den Fluxkompensator, als er beim Aufhängen einer Uhr in seinem Badezimmer von der Schüssel seiner Toilette abrutscht und unsanft mit dem Kopf aufschlägt."
+    },
+    {
+      "year": 1956,
+      "event": "Tsung-Dao Lee, Chen Ning Yang und Chien-Shiung Wu entdecken die Paritätsverletzung beim Betazerfall."
+    },
+    {
+      "year": 1957,
+      "event": "Start des ersten künstlichen Erdsatelliten Sputnik 1."
+    },
+    {
+      "year": 1958,
+      "event": "Erste vollständige Implantation eines Herzschrittmachers durch Åke Senning, der von ihm und dem Ingenieur Rune Elmqvist entwickelt worden war."
+    },
+    {
+      "year": 1959,
+      "event": "Erste Mondumrundung und erstes Foto der Mondrückseite mittels Lunik 3."
+    },
+    {
+      "year": 1960,
+      "event": "Fertigstellung des ersten Lasers durch Theodore Maiman."
+    },
+    {
+      "year": 1961,
+      "event": "Start und Flug des ersten Menschen in den Weltraum sowie erste Erdumrundung durch Juri Gagarin."
+    },
+    {
+      "year": 1962,
+      "event": "Veröffentlichung des Silberfarbstoff-Bleichverfahrens Cibachrome in der Schweiz."
+    },
+    {
+      "year": 1963,
+      "event": "Erfindung der Digitalkamera durch David Paul Gregg an der Stanford University."
+    },
+    {
+      "year": 1964,
+      "event": "Entdeckung der kosmischen Hintergrundstrahlung durch Arno Penzias und Robert Woodrow Wilson."
+    },
+    {
+      "year": 1965,
+      "event": "Eine modifizierte Contarex Kamera wird beim Außenbordeinsatz während des Gemini 4 Fluges der NASA verwendet."
+    },
+    {
+      "year": 1966,
+      "event": "Die Königsseebahn wird zwischen Berchtesgaden Königsseer Bahnhof und Königssee (Oberbay) vorerst stillgelegt."
+    },
+    {
+      "year": 1967,
+      "event": "Jocelyn Bell entdeckt schnell rotierende Neutronensterne (Pulsare)."
+    },
+    {
+      "year": 1968,
+      "event": "Raymond Davis Jr. entdeckt Neutrinos, die bei Kernreaktionen im Inneren der Sonne entstehen."
+    },
+    {
+      "year": 1969,
+      "event": "Erste bemannte Mondlandung mit Apollo 11."
+    },
+    {
+      "year": 1970,
+      "event": "Erste gesteuerte Kernfusion mit Tokamak 3 in der Sowjetunion."
+    },
+    {
+      "year": 1971,
+      "event": "Die Königsseebahn wird zwischen Berchtesgaden Königsseer Bahnhof und Königssee (Oberbay) offiziell stillgelegt."
+    },
+    {
+      "year": 1972,
+      "event": "Einführung der Mehrschichtvergütung von Objektivlinsen zur Reduktion von Falschlicht in der optischen Abbildung."
+    },
+    {
+      "year": 1973,
+      "event": "Kernfusion mit Laserstrahlen."
+    },
+    {
+      "year": 1974,
+      "event": "In RFC 675 wird das grundlegende Protokoll TCP für das Internet spezifiziert und dieser Begriff das erste Mal schriftlich erwähnt."
+    },
+    {
+      "year": 1975,
+      "event": "Entdeckung des Tauons durch Martin L. Perl und seinen Mitarbeitern am Stanford Linear Accelerator Center."
+    },
+    {
+      "year": 1976,
+      "event": "Der britische Elektroingenieur Godfrey Hounsfield entwickelt das bildgebende Verfahren der Computertomographie (CT)."
+    },
+    {
+      "year": 1977,
+      "event": "Einführung der perkutanen transluminalen koronaren Angioplastie (PTCA) durch Andreas Roland Grüntzig."
+    },
+    {
+      "year": 1978,
+      "event": "James Walter Christy spürt den größten Plutomond Charon auf."
+    },
+    {
+      "year": 1979,
+      "event": "Die Compact Disc (CD) als digitaler Audiospeicher wird vorgestellt."
+    },
+    {
+      "year": 1980,
+      "event": "Klaus von Klitzing entdeckt den quantisierten Hall-Effekt."
+    },
+    {
+      "year": 1981,
+      "event": "Einführung des CS-Systems für die Diafotografie (Compact and Secure, deutsch kompakt und sicher), die Projektormagazine fassen nun dank dünner Kunststoffrähmchen auf gleichem Platz doppelt so viele Dias wie Universalmagazine."
+    },
+    {
+      "year": 1982,
+      "event": "Fritz Honegger wird Bundespräsident der Schweiz."
+    },
+    {
+      "year": 1983,
+      "event": "Entdeckung des Helicobacter pylori als Ursache von Geschwüren im Magen und Zwölffingerdarm (gastroduodenale Ulkuskrankheit) durch Barry Marshall und John Robin Warren."
+    },
+    {
+      "year": 1984,
+      "event": "Einführung der ersten kommerziellen Digitalkameras aus der Serie Canon ION."
+    },
+    {
+      "year": 1985,
+      "event": "Die Schweiz führt die Autobahngebühr für PKW ein."
+    },
+    {
+      "year": 1986,
+      "event": "Nach einem Zeitsprung landet Sternenflotten Admiral James Tiberius Kirk mit der HMS Bounty in San Francisco um Buckelwale ins 23. Jahrhundert zu befördern."
+    },
+    {
+      "year": 1987,
+      "event": "Rick Astley veröffentlicht seine Single 'Never Gonna Give You Up'."
+    },
+    {
+      "year": 1988,
+      "event": "Das selbstduplizierende Programm worm verbreitet sich durch einen Programmierfehler schneller als erwartet und legt als erster Computerwurm das Internet mehrere Tage lahm."
+    },
+    {
+      "year": 1989,
+      "event": "In Ägypten wird eine 4400 Jahre alte Mumie am Fuß der der Cheops-Pyramide gefunden."
+    },
+    {
+      "year": 1990,
+      "event": "Das Hubble-Weltraumteleskop nimmt den Betrieb auf."
+    },
+    {
+      "year": 1991,
+      "event": "Offizieller Start des World Wide Web durch einen Usenet-Beitrag von Tim Berners-Lee."
+    },
+    {
+      "year": 1992,
+      "event": "Entdeckung der ersten Exoplaneten."
+    },
+    {
+      "year": 1993,
+      "event": "Mit der Vorstellung des Newton MessagePad 100, mit Stiftbedienung und Handschrifterkennung, definiert Apple den Begriff PDA."
+    },
+    {
+      "year": 1994,
+      "event": "Die Elemente mit der Ordnungszahl 110 (Darmstadtium) und 111 (Roentgenium) werden von der Gesellschaft für Schwerionenforschung (GSI) in Darmstadt erzeugt."
+    },
+    {
+      "year": 1995,
+      "event": "Mit dem Hubble-Weltraumteleskop wird das Hubble Deep Field aufgenommen."
+    },
+    {
+      "year": 1996,
+      "event": "Die erste Version von BSI CRM kommt auf den Markt auf Basis von SQLWindows."
+    },
+    {
+      "year": 1997,
+      "event": "Entdeckung der Uranus-Monde Caliban und Sycorax am Hale-Observatorium."
+    },
+    {
+      "year": 1998,
+      "event": "Entdeckung der Beschleunigung der Expansion des Universums."
+    },
+    {
+      "year": 1999,
+      "event": "Mit dem Palm VII, dem ersten PDA mit eingebautem Mobilfunkmodem, beginnt das Zeitalter der Mobilen Endgeräte."
+    },
+    {
+      "year": 2000,
+      "event": "Aufgrund eines Computerfehlers kommt es in der Silvesternacht zu Verkehrschaos, einer Weltwirtschaftskrise, Flugzeugabstürzen und fehlgezündeten Atomwaffen. Nicht."
+    },
+    {
+      "year": 2001,
+      "event": "Bekanntgabe der vollständige DNA-Sequenzierung des menschlichen Genoms."
+    },
+    {
+      "year": 2002,
+      "event": "Die Blu-ray Disc wird als verbessertes Datenspeichermedium vorgestellt."
+    },
+    {
+      "year": 2003,
+      "event": " Entdeckung des ersten Doppelpulsarsystems PSR J0737-3039."
+    },
+    {
+      "year": 2004,
+      "event": "Das erste Foto eines Exoplaneten gelingt vom jungen Braunen Zwerg 2M1207 b."
+    },
+    {
+      "year": 2005,
+      "event": "Entdeckung von Eris, einem massereichen Objekt im Kuipergürtel. Debatten über dessen Anerkennung zum Planeten führten letztlich zur Einführung der Kategorie der Zwergplaneten und der Rückstufung von Pluto in die neugeschaffene Kategorie."
+    },
+    {
+      "year": 2006,
+      "event": "Die NASA-Raumsonde STEREO startet und soll Entwicklung und interplanetarische Konsequenzen von Sonnenausbrüchen erforschen."
+    },
+    {
+      "year": 2007,
+      "event": "Die Mehrwertsteuer in Deutschland steigt von 16 auf 19 %."
+    },
+    {
+      "year": 2008,
+      "event": "Das Mäuseöhrchen (Myosotella myosotis) ist Weichtier des Jahres."
+    },
+    {
+      "year": 2009,
+      "event": "Der Burj Khalifa in Dubai erreicht seine maximale Höhe von 828 Metern und ist das höchste Bauwerk sowie der höchste Wolkenkratzer der Welt."
+    },
+    {
+      "year": 2010,
+      "event": "Der erste kommerziell erfolgreiche Tabletcomputer wird von Apple vorgestellt."
+    },
+    {
+      "year": 2011,
+      "event": "Die Raumfähre Atlantis startet zur letzten geplanten bemannten Raumfahrtmission mit einem Space Shuttle."
+    },
+    {
+      "year": 2012,
+      "event": "Entdeckung eines neuen Bosons am Large Hadron Collider, das in seinen Eigenschaften mit hoher Wahrscheinlichkeit dem vorhergesagten Higgs-Boson entspricht."
+    },
+    {
+      "year": 2013,
+      "event": "Die Entdeckung von Luhman 16 wird bekanntgegeben. Seit der Entdeckung von Barnards Pfeilstern (1912) ist es das erdnächste, neuentdeckte System."
+    },
+    {
+      "year": 2014,
+      "event": "Der Blattlose Widerbart (Epipogium aphyllum) ist Orchidee des Jahres (Arbeitskreis Heimische Orchideen AHO)."
+    },
+    {
+      "year": 2015,
+      "event": "Der erste direkte Nachweis von Gravitationswellen mithilfe des LIGO-Detektors."
+    },
+    {
+      "year": 2016,
+      "event": "Entdeckung vom Proxima Centauri b, einem Exoplaneten um unseren nächsten Nachbarstern Proxima Centauri, welcher sich sogar innerhalb der habitablen Zone dieses Sterns befindet."
+    },
+    {
+      "year": 2017,
+      "event": "Entdeckung von 1I/ʻOumuamua, dem ersten Objekt, das nachweislich von außerhalb des Sonnensystems kam."
+    },
+    {
+      "year": 2018,
+      "event": "Abstimmung über die Volksinitiative zur Abschaffung der Rundfunkgebühren in der Schweiz; die Volksinitiative wird mit 71,6 % der Stimmen abgelehnt."
+    },
+    {
+      "year": 2019,
+      "event": "Die erste Photographie eines schwarzen Lochs mithilfe des Event Horizon Telescope. Abgebildet wurde das Schwarze Loch der Galaxie M87."
+    },
+    {
+      "year": 2020,
+      "event": "Ausstrahlung der letzten Folge der deutschen ARD-Fernsehserie Lindenstraße."
+    },
+    {
+      "year": 2021,
+      "event": "Das erste, nie veröffentlichte Umschlagbild des Tim-und-Struppi-Comics Der Blaue Lotos des Zeichners Hergé erzielt bei einer Versteigerung in Paris einen Rekordwert von 3,2 Millionen Euro."
+    },
+    {
+      "year": 2022,
+      "event": "BSI OBSI findet statt und ist ein voller Erfolg."
+    }
+  ]
